@@ -1,7 +1,7 @@
 package Patterns;
 import java.util.*;
 
-//solid rectangel
+//solid rectangle
 public class SRectangle {
      public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
