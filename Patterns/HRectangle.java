@@ -1,7 +1,7 @@
 package Patterns;
 import java.util.Scanner;
 
-//hollow rectangel 
+//hollow rectangle 
 public class HRectangle {
      public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
