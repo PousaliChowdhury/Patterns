@@ -1,7 +1,7 @@
 package Patterns;
 import java.util.Scanner;
 
-// inverted Half pyramid
+// inverted Half pyramid 
 public class InvertedHPyramid {
      public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
